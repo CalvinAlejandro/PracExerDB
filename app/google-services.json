@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "232730430919",
+    "firebase_url": "https://pracexerdb.firebaseio.com",
+    "project_id": "pracexerdb",
+    "storage_bucket": "pracexerdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:232730430919:android:2a8f9bfa2cd22bc7231de2",
+        "android_client_info": {
+          "package_name": "com.alejandro.pracexerdb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "232730430919-r9dluijf084jjcdjki8gq010nfmdj02n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.alejandro.pracexerdb",
+            "certificate_hash": "71e2bb34524bdc08f37342bec86b63285d7cec7d"
+          }
+        },
+        {
+          "client_id": "232730430919-5jf4d1bbk1vj211m55djhlaag7uctglm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNi74dTEenRjQgU58soq256rYwBtb-mMo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "232730430919-5jf4d1bbk1vj211m55djhlaag7uctglm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
